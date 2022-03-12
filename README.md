@@ -1,6 +1,7 @@
-# react-game
+# Tes Reaksi
+Ini adalah aplikasi sederhana untuk tes seberapa cepat reaksi pengguna.
 
-## Project setup
+## Setup Proyek
 ```
 npm install
 ```
